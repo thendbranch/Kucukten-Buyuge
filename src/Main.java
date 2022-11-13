@@ -1,3 +1,7 @@
+// https://app.patika.dev
+// https://app.patika.dev/thendbranch
+
+
 import java.util.Scanner;
 
 public class Main {
